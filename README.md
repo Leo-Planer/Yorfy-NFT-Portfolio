@@ -8,7 +8,7 @@ The design for this project belongs to **Groweb Studio**.
 
 ## Developer
 
-Developed by **Abdullah Jabbar** as part of the Netixsol Pvt Ltd.
+Developed by **Abdullah Jabbar** as part of the Netixsol.
 
 ## Technologies Used
 
