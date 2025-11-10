@@ -6,6 +6,9 @@ A modern, responsive NFT portfolio website built with Next.js and Material-UI, f
 
 The design for this project belongs to **Groweb Studio**.
 
+## Figma Design
+https://www.figma.com/design/2nZgUiruP4TBzKAxCXn6Cb/YORFY---NFT-Portfolio-Website-UI-Kit?node-id=56-963&t=jnhPJ82MBE10cb10-0
+
 ## Developer
 
 Developed by **Abdullah Jabbar** as part of the Netixsol.
