@@ -2,6 +2,7 @@
 
 A modern, responsive NFT portfolio website built with Next.js and Material-UI, featuring a sleek dark theme and smooth animations.
 
+
 ## Design Credits
 
 The design for this project belongs to **Groweb Studio**.
